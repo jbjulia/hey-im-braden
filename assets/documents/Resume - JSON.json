@@ -1,0 +1,155 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "",
+    "awards": "Commendations"
+  },
+  "basics": {
+    "name": "Joseph Braden Julian",
+    "email": "jbjulian@pm.me",
+    "website": "heyimbraden.com",
+    "location": {
+      "address": "Temecula, California"
+    },
+    "phone": "919-414-1384"
+  },
+  "education": [
+    {
+      "institution": "University of Maryland Global Campus",
+      "location": "Adelphi, Maryland",
+      "studyType": "Baccalaureate of Science in Computer Science",
+      "startDate": "2018",
+      "endDate": "2023"
+    },
+    {
+      "institution": "University of Maryland Global Campus",
+      "location": "Adelphi, Maryland",
+      "startDate": "2018",
+      "endDate": "2020",
+      "studyType": "Associate of Arts in Computer Studies"
+    },
+    {
+      "institution": "University of Maryland Global Campus",
+      "location": "Adelphi, Maryland",
+      "studyType": "Certificate in Computer Studies",
+      "startDate": "2018",
+      "endDate": "2020"
+    },
+    {
+      "institution": "United Services Military Apprenticeship Program",
+      "location": "Pensacola, Florida",
+      "studyType": "Certificates in Cyber Defense, Radio Station Operations, and Radio Mechanics",
+      "startDate": "2018",
+      "endDate": "2023"
+    },
+    {
+      "institution": "West Johnston High School",
+      "location": "Benson, North Carolina",
+      "studyType": "Inducted into the National Honors Society and National Society of High School Scholars",
+      "startDate": "2008",
+      "endDate": "2012"
+    }
+  ],
+  "work": [
+    {
+      "company": "Special Reconnaissance Team ONE",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "highlights": [
+        "Conducted Preparation of the Environment (PE), targeting, force protection, and Indications and Warnings (I&W) in support of Naval Special Warfare (NSW) squadrons, theater commanders, partner nations, and other government agencies by targeting enemy communication devices, infrastructures and decision making processes to Find, Fix, and Finish using tactical, technical, and analytical capabilities."
+      ],
+      "position": "Tactical Information Operations Analyst",
+      "location": "Coronado, California"
+    },
+    {
+      "highlights": [
+        "Provided prompt and sustained Information Operations (IO) and Fleet Information Operations Center (FIOC) functions service to SIXTH Fleet and United Kingdom Naval Forces in accordance with Chief of Naval Operations and Commander, US TENTH Fleet directives."
+      ],
+      "company": "Cryptologic Warfare Group SIX Detachment Digby",
+      "position": "Battle Watch Supervisor",
+      "location": "Lincolnshire, England",
+      "startDate": "2018",
+      "endDate": "2021"
+    },
+    {
+      "highlights": [
+        "Provided Fleet and Type Commanders direct technical support, maintenance, and training associated with the installation, operation, and readiness of shipboard equipment, systems, and logistic services for all Naval Station Mayport-based and visiting ships in the Southeast region."
+      ],
+      "company": "Southeast Regional Maintenance Center",
+      "position": "Facilities Manager",
+      "location": "Jacksonville, Florida",
+      "startDate": "2016",
+      "endDate": "2018"
+    },
+    {
+      "highlights": [
+        "Deployed in support of Baltic Operations (BALTOPS) 2015, as Standing NATO Maritime Group 2 (SNMG-2) flagship, training gunnery, replenishment at sea, anti-submarine warfare (ASW), radar tracking and interception, mine countermeasures, seamanship, search and rescue, maritime interdiction operations and scenarios dealing with potential real world crises and maritime security."
+      ],
+      "company": "USS Vicksburg CG-69",
+      "location": "Jacksonville, Florida",
+      "startDate": "2014",
+      "endDate": "2016",
+      "position": "Ship's Signal Exploitation Space Operator"
+    },
+    {
+      "highlights": [
+        "Developed robust Dispatcher database in Microsoft Access while coordinating emergency services and radio communications across seven campuses, leading and directing a 14-man security force  in shifts."
+      ],
+      "company": "Wake Technical Community College",
+      "position": "Telecommunications Specialist",
+      "location": "Raleigh,  North Carolina",
+      "startDate": "2011",
+      "endDate": "2014"
+    },
+    {
+      "highlights": [
+        "Supervised eight employees across multiple shifts in a fast-pace environment while performing opening and closing restaurant functions, to include timekeeping, scheduling, purchase orders, and bank deposits."
+      ],
+      "company": "Smithfield's Chicken 'N Bar-B-Q",
+      "position": "Assistant Manager",
+      "location": "Garner, North Carolina",
+      "startDate": "2009",
+      "endDate": "2011"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        null
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Athena",
+      "keywords": [
+        "Python",
+        "PyQt",
+        "Qt Designer",
+        "PyCharm",
+        "Git"
+      ],
+      "description": "A Pythonic solution and feature-rich tool suite that intelligently tracks user activity, records watch-keeping actions, enables efficient report dissemination and forwarding, and provides visually-aided, drag-and-drop vessel tracking; a collaborative effort to automate the Fleet Information Operations Center UK Battle Watch.",
+      "url": "github.com/jbjulia/project-athena"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Joint Service Achievement Medal",
+      "date": "2023",
+      "awarder": "Combined Special Operations Joint Task Force - Levant",
+      "summary": "For exceptional professionalism and selfless devotion to duty, reflecting great credit upon himself and keeping with the highest traditions of Special Operations, the United States Navy, and Department of Defense."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
