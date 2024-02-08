@@ -1,100 +1,100 @@
 .bs-icon.bs-icon-primary {
-  color: var(--bs-dark);
+    color: var(--bs-dark);
 }
 
 .fas.fa-file-pdf {
-  margin-left: 10px;
+    margin-left: 10px;
 }
 
 .fas.fa-laptop-code {
-  margin-right: 5px;
-  margin-bottom: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
 }
 
 .fas.fa-user-graduate {
-  margin-left: 10px;
-  margin-right: 5px;
-  margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
 }
 
 .fas.fa-hands {
-  margin-right: 5px;
-  margin-bottom: 20px;
+    margin-right: 5px;
+    margin-bottom: 20px;
 }
 
 .fas.fa-clock {
-  margin-left: 10px;
-  margin-right: 5px;
-  margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
 }
 
 .fas.fa-dollar-sign {
-  color: #6B8068;
-  margin-right: 5px;
-  margin-bottom: 20px;
+    color: #6B8068;
+    margin-right: 5px;
+    margin-bottom: 20px;
 }
 
 .fas.fa-map-marker-alt {
-  margin-right: 5px;
-  color: #0984e3;
-  font-size: 30px;
+    margin-right: 5px;
+    color: #0984e3;
+    font-size: 30px;
 }
 
 .fab.fa-gitlab {
-  color: #FC6D27;
-  margin-right: 5px;
+    color: #FC6D27;
+    margin-right: 5px;
 }
 
 .fas.fa-user-friends {
-  margin-right: 5px;
-  margin-bottom: 20px;
-  margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 .fas.fa-envelope {
-  margin-right: 5px;
-  margin-bottom: 20px;
-  color: #F9FBFF;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    color: #F9FBFF;
 }
 
 .fas.fa-sync-alt {
-  margin-right: 5px;
-  margin-bottom: 20px;
-  margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 .fas.fa-angle-right {
-  margin-right: 5px;
-  margin-bottom: 20px;
-  margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 
 .fas.fa-box {
-  margin-right: 5px;
-  margin-bottom: 20px;
-  color: #ad8762;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    color: #ad8762;
 }
 
 .fas.fa-medal {
-  color: #f1c232;
+    color: #f1c232;
 }
 
 .bs-icon {
-  --bs-icon-size: .75rem;
-  display: flex;
-  flex-shrink: 0;
-  justify-content: center;
-  align-items: center;
-  font-size: var(--bs-icon-size);
-  width: calc(var(--bs-icon-size) * 2);
-  height: calc(var(--bs-icon-size) * 2);
+    --bs-icon-size: .75rem;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--bs-icon-size);
+    width: calc(var(--bs-icon-size) * 2);
+    height: calc(var(--bs-icon-size) * 2);
 }
 
 .bs-icon-xl {
-  --bs-icon-size: 2.5rem;
+    --bs-icon-size: 2.5rem;
 }
 
 .bs-icon.bs-icon-circle {
-  border-radius: 50%;
+    border-radius: 50%;
 }
 

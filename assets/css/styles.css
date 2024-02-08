@@ -1,62 +1,62 @@
 body {
-  font-family: 'Titillium Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 #btn-back-to-top {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  display: none;
-  z-index: 1;
-  color: #2980b9;
+    position: fixed;
+    top: 40px;
+    right: 20px;
+    display: none;
+    z-index: 1;
+    color: #2980b9;
 }
 
 h1::after {
-  background-color: #2980b9;
-  width: 75px;
-  height: 4px;
-  display: block;
-  content: '';
-  margin: auto;
-  margin-top: 4px;
+    background-color: #2980b9;
+    width: 75px;
+    height: 4px;
+    display: block;
+    content: '';
+    margin: auto;
+    margin-top: 4px;
 }
 
 .background-gray-dark {
-  background-color: var(--bs-gray-dark);
-  color: var(--bs-gray-100);
+    background-color: var(--bs-gray-dark);
+    color: var(--bs-gray-100);
 }
 
 .fit-cover {
-  object-fit: cover;
+    object-fit: cover;
 }
 
 .blur {
-  filter: blur(5px);
+    filter: blur(5px);
 }
 
 .w-100 {
-  max-width: 800px;
+    max-width: 800px;
 }
 
 .accordion-dates {
-  margin-right: 10px;
-  font-weight: bold;
+    margin-right: 10px;
+    font-weight: bold;
 }
 
 .badge {
-  float: right;
-  margin-top: 2px;
-  outline: 1px solid;
-  outline-color: #fcb434;
+    float: right;
+    margin-top: 2px;
+    outline: 1px solid;
+    outline-color: #fcb434;
 }
 
 .job-title {
-  color: #f1c232;
+    color: #f1c232;
 }
 
 .img-project {
-  width: 200px;
-  height: 200px;
-  max-width: 100%;
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
 }
 
